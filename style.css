@@ -5,13 +5,14 @@ html {
 body {
 	background-color:#ffffff;
 	color: #0d0d0d;
-	margin: 0 auto;
+	margin-left: auto;
+    	margin-right: auto;
 	width: 870px;
 	font-family: 'courier', sans-serif;
 }
 h1	{
 	 color:#4d4d4d;
-	 font-size: 40px;
+	 font-size: 30px;
 	 text-align: center;
 	
 }
