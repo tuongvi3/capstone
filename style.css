@@ -31,6 +31,10 @@ img	{
 	width:200px;
 	height:100%;
 	background:#151719;
+	left:-200px;
+ }
+ #sidebar.active {
+ 	left:0px; 
  }
  #sidebar ul li {
   color:rgba(230,230,230,0.9);
